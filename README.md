@@ -147,10 +147,12 @@ If you find our work useful, please cite it as
 ```
 @article{yang2025shell,
   title={Shell-guided Compression of Voxel Radiance Fields},
-  author={Yang, Peiqi and Ni, Zhangkai and Wang, Hanli and Yang, Wenhan and Wang, Shiqi and Kwong, Sam},
-  journal={IEEE Transactions on Image Processing},
-  year={2025},
-  publisher={IEEE}
+	author={Yang, Peiqi, and Ni, Zhangkai, and Wang, Hanli, and Yang, Wenhan and Wang, Shiqi and Kwong, Sam},
+	journal={IEEE Transactions on Image Processing},
+	volume={34},
+	pages={1179-1191},
+	year={2025},
+	publisher={IEEE}
 }
 ```
 
