@@ -5,7 +5,7 @@ Peiqi Yang<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [H
 
 <sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>City University of Hong Kong, <sup>4</sup>Lingnan Univerity
 
-This repository provides the official implementation for the paper "SVRF: Shell-guided Compression of Voxel Radiance Fields," IEEE T-IP, 2025. [Paper](https://ieeexplore.ieee.org/document/10879387)
+This repository provides the official implementation for the paper "SVRF: Shell-guided Compression of Voxel Radiance Fields," IEEE Transactions on Image Processing, vol. 34, pp. 1179-1191, 2025. [Paper](https://ieeexplore.ieee.org/document/10879387)
 
 ![Teaser](./readme-img/SVRF.jpg)
 
