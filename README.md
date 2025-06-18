@@ -21,6 +21,17 @@ Extensive experimental results demonstrate that our method achieves comparable r
 
 **TL;DR:** We introduce a novel method aimed at optimizing voxel-based model into a shell-like structure to reduce storage costs while maintaining rendering accuracy.
 
+## Experimental Results
+Quantitative comparison for novel view synthesis on Synthetic-NeRF and Tanks and Temples shows our method outperforms most methods while ensuring faster training and low memory usage. The top three performances are marked in red, orange, and yellow backgrounds. “Size” is in MB.
+
+<div align="center"> <img src=./readme-img/performanceA.jpg width = "80%" height = "100%" /> </div>
+
+
+Quantitative comparison for novel view synthesis on Synthetic-NSVF and BlendedMVS shows our SVRF outperforms most methods while ensuring faster training and low memory usage.
+
+<div align="center"> <img src=./readme-img/performanceB.jpg width = "80%" height = "100%" /> </div>
+
+
 ## Environment setup
 To start, we prefer creating the environment using conda:
 ```sh
