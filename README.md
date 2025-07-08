@@ -24,12 +24,13 @@ Extensive experimental results demonstrate that our method achieves comparable r
 ## Experimental Results
 1. Quantitative comparison for novel view synthesis on Synthetic-NeRF and Tanks and Temples shows our method outperforms most methods while ensuring faster training and low memory usage. The top three performances are marked in red, orange, and yellow backgrounds. “Size” is in MB.
 
-<div align="center"> <img src=./readme-img/performanceA.jpg width = "60%" height = "100%" /> </div>
-
+<!-- <div align="center"> <img src=./readme-img/performanceA.jpg width = "60%" height = "100%" /> </div> -->
+<div align="center"> <img src=./readme-img/performanceA.jpg width = "500" /> </div>
 
 2. Quantitative comparison for novel view synthesis on Synthetic-NSVF and BlendedMVS shows our SVRF outperforms most methods while ensuring faster training and low memory usage.
 
-<div align="center"> <img src=./readme-img/performanceB.jpg width = "60%" height = "100%" /> </div>
+<div align="center"> <img src=./readme-img/performanceB.jpg width = "500" /> </div>
+<!-- <div align="center"> <img src=./readme-img/performanceB.jpg width = "60%" height = "100%" /> </div> -->
 
 
 ## Environment setup
