@@ -1,11 +1,25 @@
-# SVRF: Shell-guided Compression of Voxel Radiance Fields
-#### IEEE Transactions on Image Processing, 2025
+<div align="center">
+  <h1>SVRF: Shell-guided Compression of Voxel Radiance Fields</h1>
+</div>
+
+<h4 align="center"> 
 
 Peiqi Yang<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>,  [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=en)<sup>3</sup>, [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN)<sup>4</sup>
 
 <sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>City University of Hong Kong, <sup>4</sup>Lingnan Univerity
 
-This repository provides the official implementation for the paper "SVRF: Shell-guided Compression of Voxel Radiance Fields," IEEE Transactions on Image Processing, vol. 34, pp. 1179-1191, 2025. [Paper](https://ieeexplore.ieee.org/document/10879387)
+IEEE Transactions on Image Processing (TIP), 2025
+</h4>
+
+<!-- 
+# SVRF: Shell-guided Compression of Voxel Radiance Fields
+#### IEEE Transactions on Image Processing, 2025
+
+Peiqi Yang<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>,  [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=en)<sup>3</sup>, [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN)<sup>4</sup>
+
+<sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>City University of Hong Kong, <sup>4</sup>Lingnan Univerity -->
+
+This repository provides the official implementation for the paper "SVRF: Shell-guided Compression of Voxel Radiance Fields," IEEE Transactions on Image Processing, vol. 34, pp. 1179-1191, 2025. [Paper-official](https://ieeexplore.ieee.org/document/10879387)
 
 ![Teaser](./readme-img/SVRF.jpg)
 
@@ -24,13 +38,13 @@ Extensive experimental results demonstrate that our method achieves comparable r
 ## Experimental Results
 1. Quantitative comparison for novel view synthesis on Synthetic-NeRF and Tanks and Temples shows our method outperforms most methods while ensuring faster training and low memory usage. The top three performances are marked in red, orange, and yellow backgrounds. “Size” is in MB.
 
-<!-- <div align="center"> <img src=./readme-img/performanceA.jpg width = "60%" height = "100%" /> </div> -->
-<div align="center"> <img src=./readme-img/performanceA.jpg width = "500" /> </div>
+<div align="center"> <img src=./readme-img/performanceA.jpg width = "60%" height = "100%" /> </div>
+<!-- <div align="center"> <img src=./readme-img/performanceA.jpg width = "500" /> </div> -->
 
 2. Quantitative comparison for novel view synthesis on Synthetic-NSVF and BlendedMVS shows our SVRF outperforms most methods while ensuring faster training and low memory usage.
 
-<div align="center"> <img src=./readme-img/performanceB.jpg width = "500" /> </div>
-<!-- <div align="center"> <img src=./readme-img/performanceB.jpg width = "60%" height = "100%" /> </div> -->
+<!-- <div align="center"> <img src=./readme-img/performanceB.jpg width = "500" /> </div> -->
+<div align="center"> <img src=./readme-img/performanceB.jpg width = "60%" height = "100%" /> </div>
 
 
 ## Environment setup
