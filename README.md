@@ -85,7 +85,7 @@ The primary datasets evaluated in our paper are listed below. Please download th
 ## Directory structure for the datasets
 
 <details>
-  <summary> (click to expand;) </summary>
+  <summary> Dataset Structure(click to expand) </summary>
 
     data
     ├── nerf_synthetic     # Link: https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1
